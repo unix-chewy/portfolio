@@ -1,0 +1,21 @@
+{
+  "name": "Joney Sunga",
+  "short_name": "Joney Sunga",
+  "description": "Joney Sunga builds machine learning and web tools that get measured. SegFormer segmentation at 95.58 leaf IoU, a text-to-music app, and restaurant discovery for Pampanga.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffe8e8",
+  "icons": [
+    {
+      "src": "./favicon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./favicon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
